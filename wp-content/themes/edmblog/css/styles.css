@@ -1,0 +1,29 @@
+html { margin-top: 32px !important; }
+
+html, body, nav { margin-top: 32px !important; }
+
+@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		html, body, nav { margin-top: 46px !important; }
+	}
+
+
+.post-content{
+	width:100%;
+	height:100%;
+}
+
+.post-image img{
+	width:100%;
+	height:100%;
+}
+
+.reply{
+	height: 100px;
+	border-bottom: 2px #ccc solid;
+	margin: 10px 0;
+}
+
+.comment-form{
+	margin-bottom: 
+}
